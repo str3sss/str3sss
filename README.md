@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=900&size=24&pause=1000&color=15C035&background=000000&multiline=true&width=600&height=100&lines=+%3E%3E+Hello%2C+I'm+frontend+react+developer+from+Russia.;++%3E%3E+Check+out+my+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=900&size=24&pause=1000&color=15C035&background=000000&multiline=true&width=800&height=100&lines=+%3E%3E+Hello%2C+I'm+frontend+react+developer+from+Russia.;++%3E%3E+Check+out+my+projects)](https://git.io/typing-svg)
